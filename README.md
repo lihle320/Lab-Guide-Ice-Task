@@ -51,8 +51,7 @@ This project is a RESTful API built with Node.js and Express. It allows users to
 
 3. Create a `.env` file in the root directory and add your MongoDB connection string:
     ```
-    ATLAS_URL=mongodb+srv://username:password@cluster0.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
-    JWT_SECRET=your_jwt_secret
+   
     ```
 
 4. Generate SSL certificates and place them in the `keys` directory.
